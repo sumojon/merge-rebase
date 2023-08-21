@@ -1,0 +1,3 @@
+echo "welcome to " devops RK class "
+date 
+echo " this is first program in gitbash"
